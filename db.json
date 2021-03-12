@@ -1,0 +1,44 @@
+{
+  "prace": [
+    {
+      "id": 1,
+      "numerprac": "PP-20182-1",
+      "data": "2021-03-11T20:47:16+00:00",
+      "status": "todo",
+      "poczta": false,
+      "link": "Notes://142ASGGASDGAFAF"
+      "notes": "my note"
+    },
+    {
+      "id": 2,
+      "numerprac": "PP-20182-2",
+      "data": "2021-03-12T20:47:16+00:00",
+      "status": "doing",
+      "poczta": false,
+      "link": "Notes://142ASGGASDGAFAF"
+      "notes": "my note2"
+    },
+    {
+      "id": 3,
+      "numerprac": "PP-20182-3",
+      "data": "2021-03-13T20:47:16+00:00",
+      "status": "done",
+      "poczta": true,
+      "link": "Notes://142ASGGASDGAFAF"
+      "notes": "my note3"
+    },
+    {
+      "id": 4,
+      "numerprac": "PP-20182-4",
+      "data": "2021-03-14T20:47:16+00:00",
+      "status": "doing",
+      "poczta": false,
+      "link": "Notes://142ASGGASDGAFAF"
+      "notes": "my note4"
+    },
+    
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
